@@ -1,6 +1,6 @@
 # WhatsNewInCSharp7Demo
 
-**Whats New In C# 7/7.1/7.2
+**Whats New In C# 7/7.1/7.2**
 
 Tech talk topics:
 
