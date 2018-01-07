@@ -12,8 +12,7 @@ C# 7.0
 
 C# 7.1
 
-* Build menu -> Right click project -> Advanced -> Language selection
-* The latest main version is C# 7.0
+* Build menu -> Right click project -> Advanced -> Language selection. 
 
 7. Async main
 8. Default Literal Exp.
