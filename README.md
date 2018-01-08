@@ -1,6 +1,6 @@
 # Whats New In C# 7 - Tech talk
 
-Tech talk topics:
+Topics:
 
 1. Tuples/Value tuples
 2. Out variables
