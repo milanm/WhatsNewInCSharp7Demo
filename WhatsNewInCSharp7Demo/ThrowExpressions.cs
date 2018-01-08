@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WhatsNewInCSharp7Demo
 {
-    class ThrowExceptions
+    class ThrowExpressions
     {
         public int Method()
         {
