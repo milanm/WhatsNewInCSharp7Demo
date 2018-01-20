@@ -1,4 +1,4 @@
-# Whats New In C# 7 - Tech talk
+# Whats New In C# 7.x and beyond - Tech talk
 
 Topics:
 
